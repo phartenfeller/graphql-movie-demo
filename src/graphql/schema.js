@@ -1,6 +1,7 @@
-const { buildSchema } = require('graphql');
+const { buildASTSchema } = require('graphql');
+const gql = require('graphql-tag');
 
-const schema = buildSchema(`
+const schema = buildASTSchema(gql`
   type Query {
     hello: String
   }
