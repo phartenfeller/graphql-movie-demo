@@ -21,3 +21,56 @@
 - [demo-2](https://github.com/phartenfeller/graphql-movie-demo/tree/demo-2) : query to get all movies (allMovies)
 - [demo-3](https://github.com/phartenfeller/graphql-movie-demo/tree/demo-3) : query with parameter to limit amount of returned movies (amountOfMovies)
 - [demo-4](https://github.com/phartenfeller/graphql-movie-demo/tree/demo-4) / master : cast type with actors and movies in which they appear to show relations and field resolvers
+
+## Example Queries
+
+Hello World:
+
+```gql
+{
+  hello
+}
+```
+
+All Movies:
+
+```gql
+{
+  allMovies {
+    id
+    title
+    year
+  }
+}
+```
+
+Limit amount of returned Movies:
+
+```gql
+{
+  amountOfMovies(amount: 10) {
+    id
+    title
+    year
+  }
+}
+```
+
+Relation between Movies and Cast:
+
+```gql
+{
+  amountOfMovies(amount: 10) {
+    id
+    title
+    year
+    cast {
+      name
+      role
+      movies {
+        title
+      }
+    }
+  }
+}
+```
