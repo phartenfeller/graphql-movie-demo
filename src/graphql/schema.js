@@ -7,6 +7,7 @@ const schema = buildASTSchema(gql`
   type Query {
     hello: String
     allMovies: [Movie]
+    amountOfMovies(amount: Int!): [Movie]
   }
   type Movie {
     id: Int!
@@ -19,7 +20,8 @@ const schema = buildASTSchema(gql`
 
 const root = {
   hello: () => 'Hello World!',
-  allMovies: allMoviesResolver
+  allMovies: () => allMoviesResolver(),
+  amountOfMovies: ({ amount }) => allMoviesResolver(amount)
 };
 
 module.exports = { schema, root };
