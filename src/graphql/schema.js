@@ -1,9 +1,10 @@
-const { buildASTSchema } = require('graphql');
+const { makeExecutableSchema } = require('@graphql-tools/schema');
 const gql = require('graphql-tag');
 
 const allMoviesResolver = require('./resolvers/allMovies');
+const actorMoviesResolver = require('./resolvers/actorMovies');
 
-const schema = buildASTSchema(gql`
+const typeDefs = gql`
   type Query {
     hello: String
     allMovies: [Movie]
@@ -15,13 +16,27 @@ const schema = buildASTSchema(gql`
     year: Int!
     runtime: Int
     genres: [String]
+    cast: [MovieRole]
   }
-`);
 
-const root = {
-  hello: () => 'Hello World!',
-  allMovies: () => allMoviesResolver(),
-  amountOfMovies: ({ amount }) => allMoviesResolver(amount)
+  type MovieRole {
+    name: String!
+    role: String
+    movies: [Movie]
+  }
+`;
+
+const resolvers = {
+  Query: {
+    hello: () => 'Hello World!',
+    allMovies: () => allMoviesResolver(),
+    amountOfMovies: (parent, { amount }) => allMoviesResolver(amount)
+  },
+  MovieRole: {
+    movies: parent => actorMoviesResolver(parent.name)
+  }
 };
 
-module.exports = { schema, root };
+const schema = makeExecutableSchema({ typeDefs, resolvers });
+
+module.exports = schema;

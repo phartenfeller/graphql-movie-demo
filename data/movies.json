@@ -5,7 +5,7 @@
     "year": 1994,
     "runtime": 142,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Morgan Freeman",
         "role": "Ellis Boyd 'Red' Redding"
@@ -71,7 +71,7 @@
     "year": 1972,
     "runtime": 175,
     "genres": ["Crime", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Marlon Brando",
         "role": "Don Vito Corleone"
@@ -137,7 +137,7 @@
     "year": 2008,
     "runtime": 152,
     "genres": ["Action", "Crime", "Drama", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Morgan Freeman",
         "role": "Lucius Fox"
@@ -206,7 +206,7 @@
     "year": 1974,
     "runtime": 202,
     "genres": ["Drama", "Crime"],
-    "CAST": [
+    "cast": [
       {
         "name": "Robert De Niro",
         "role": "Vito Corleone n  n  n  (as Robert DeNiro)"
@@ -273,7 +273,7 @@
     "year": 2003,
     "runtime": 201,
     "genres": ["Adventure", "Drama", "Fantasy"],
-    "CAST": [
+    "cast": [
       {
         "name": "Sean Astin",
         "role": "Sam"
@@ -333,7 +333,7 @@
     "year": 2016,
     "runtime": 135,
     "genres": ["Action", "Drama", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Murat Arkin",
         "image": null,
@@ -386,7 +386,7 @@
     "year": 1994,
     "runtime": 154,
     "genres": ["Crime", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Samuel L. Jackson",
         "role": "Jules Winnfield"
@@ -452,7 +452,7 @@
     "year": 1957,
     "runtime": 96,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Henry Fonda",
         "role": "Juror 8"
@@ -506,7 +506,7 @@
     "year": 1993,
     "runtime": 195,
     "genres": ["Drama", "History", "Biography"],
-    "CAST": [
+    "cast": [
       {
         "name": "Ralph Fiennes",
         "role": "Amon Goeth"
@@ -571,7 +571,7 @@
     "year": 2001,
     "runtime": 178,
     "genres": ["Adventure", "Drama", "Fantasy"],
-    "CAST": [
+    "cast": [
       {
         "name": "Sean Astin",
         "role": "Sam"
@@ -635,7 +635,7 @@
     "year": 1966,
     "runtime": 161,
     "genres": ["Western"],
-    "CAST": [
+    "cast": [
       {
         "name": "Clint Eastwood",
         "role": "Blondie"
@@ -693,7 +693,7 @@
     "year": 1994,
     "runtime": 142,
     "genres": ["Drama", "Romance"],
-    "CAST": [
+    "cast": [
       {
         "name": "Tom Hanks",
         "role": "Forrest Gump"
@@ -755,7 +755,7 @@
     "year": 1999,
     "runtime": 139,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Brad Pitt",
         "role": "Tyler Durden"
@@ -813,7 +813,7 @@
     "year": 2010,
     "runtime": 148,
     "genres": ["Action", "Adventure", "Sci-Fi", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Leonardo DiCaprio",
         "role": "Cobb"
@@ -877,7 +877,7 @@
     "year": 1999,
     "runtime": 136,
     "genres": ["Sci-Fi", "Action"],
-    "CAST": [
+    "cast": [
       {
         "name": "Keanu Reeves",
         "role": "Neo"
@@ -938,7 +938,7 @@
     "year": 1975,
     "runtime": 133,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Jack Nicholson",
         "role": "R.P. McMurphy"
@@ -983,7 +983,7 @@
     "year": 1990,
     "runtime": 146,
     "genres": ["Biography", "Crime", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Robert De Niro",
         "role": "James Conway"
@@ -1040,7 +1040,7 @@
     "year": 1980,
     "runtime": 124,
     "genres": ["Action", "Adventure", "Fantasy", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Alec Guinness",
         "role": "Ben (Obi-Wan) Kenobi"
@@ -1103,7 +1103,7 @@
     "year": 2002,
     "runtime": 179,
     "genres": ["Drama", "Fantasy", "Adventure"],
-    "CAST": [
+    "cast": [
       {
         "name": "Sean Astin",
         "role": "Sam"
@@ -1163,7 +1163,7 @@
     "year": 1954,
     "runtime": 207,
     "genres": ["Adventure", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Toshirō Mifune",
         "role": "Kikuchiyo n  n  n  (as Toshiro Mifune)"
@@ -1227,7 +1227,7 @@
     "year": 2014,
     "runtime": 169,
     "genres": ["Adventure", "Drama", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Matthew McConaughey",
         "role": "Cooper"
@@ -1293,7 +1293,7 @@
     "year": 1946,
     "runtime": 130,
     "genres": ["Drama", "Family", "Fantasy"],
-    "CAST": [
+    "cast": [
       {
         "name": "James Stewart",
         "role": "George Bailey"
@@ -1356,7 +1356,7 @@
     "year": 2001,
     "runtime": 125,
     "genres": ["Adventure", "Family", "Fantasy", "Mystery", "Animation"],
-    "CAST": [
+    "cast": [
       {
         "name": "Tatsuya Gashûin",
         "role": "Aogaeru n  n  n  (voice)"
@@ -1421,7 +1421,7 @@
     "year": 1977,
     "runtime": 121,
     "genres": ["Action", "Adventure", "Fantasy", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Alec Guinness",
         "role": "Ben Obi-Wan Kenobi"
@@ -1484,7 +1484,7 @@
     "year": 1991,
     "runtime": 118,
     "genres": ["Drama", "Thriller", "Crime"],
-    "CAST": [
+    "cast": [
       {
         "name": "Jodie Foster",
         "role": "Clarice Starling"
@@ -1548,7 +1548,7 @@
     "year": 1995,
     "runtime": 106,
     "genres": ["Crime", "Mystery", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Kevin Spacey",
         "role": "Verbal"
@@ -1614,7 +1614,7 @@
     "year": 1994,
     "runtime": 110,
     "genres": ["Action", "Crime", "Drama", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Gary Oldman",
         "role": "Stansfield"
@@ -1678,7 +1678,7 @@
     "year": 1995,
     "runtime": 127,
     "genres": ["Crime", "Drama", "Mystery", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Brad Pitt",
         "role": "Mills"
@@ -1744,7 +1744,7 @@
     "year": 2019,
     "runtime": 132,
     "genres": ["Comedy", "Drama", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Song Kang-ho",
         "role": "Ki Taek n  n  n  (as Song Kang Ho)"
@@ -1818,7 +1818,7 @@
     "year": 1997,
     "runtime": 116,
     "genres": ["Comedy", "Drama", "Romance", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Roberto Benigni",
         "role": "Guido"
@@ -1874,7 +1874,7 @@
     "year": 1999,
     "runtime": 189,
     "genres": ["Crime", "Drama", "Fantasy", "Mystery"],
-    "CAST": [
+    "cast": [
       {
         "name": "Tom Hanks",
         "role": "Paul Edgecomb"
@@ -1940,7 +1940,7 @@
     "year": 1998,
     "runtime": 169,
     "genres": ["Drama", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Tom Hanks",
         "role": "Captain Miller"
@@ -2009,7 +2009,7 @@
     "year": 1979,
     "runtime": 147,
     "genres": ["Drama", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Marlon Brando",
         "role": "Colonel Walter E. Kurtz"
@@ -2069,7 +2069,7 @@
     "year": 1936,
     "runtime": 87,
     "genres": ["Comedy", "Drama", "Family", "Romance"],
-    "CAST": [
+    "cast": [
       {
         "name": "Charlie Chaplin",
         "role": "A Factory Worker n  n  n  (as Charlie Chaplin)"
@@ -2130,7 +2130,7 @@
     "year": 2010,
     "runtime": 106,
     "genres": ["Documentary", "Biography", "Sport"],
-    "CAST": [
+    "cast": [
       { "name": "Nigel Mansell", "image": null, "role": "Himself" },
       {
         "name": "Ayrton Senna",
@@ -2161,7 +2161,7 @@
     "year": 1994,
     "runtime": 88,
     "genres": ["Animation", "Adventure", "Drama", "Family", "Musical"],
-    "CAST": [
+    "cast": [
       {
         "name": "Rowan Atkinson",
         "role": "Zazu n  n  n  (voice)"
@@ -2233,7 +2233,7 @@
     "year": 1988,
     "runtime": 89,
     "genres": ["Animation", "Drama", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Marcy Bannor",
         "image": null,
@@ -2312,7 +2312,7 @@
     "year": 2018,
     "runtime": 149,
     "genres": ["Action", "Adventure", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Don Cheadle",
         "role": "James Rhodes /  n            War Machine"
@@ -2381,7 +2381,7 @@
     "year": 2019,
     "runtime": 122,
     "genres": ["Crime", "Drama", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Robert De Niro",
         "role": "Murray Franklin"
@@ -2447,7 +2447,7 @@
     "year": 2000,
     "runtime": 155,
     "genres": ["Action", "Adventure", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Russell Crowe",
         "role": "Maximus"
@@ -2516,7 +2516,7 @@
     "year": 1985,
     "runtime": 116,
     "genres": ["Adventure", "Comedy", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Michael J. Fox",
         "role": "Marty McFly"
@@ -2582,7 +2582,7 @@
     "year": 1954,
     "runtime": 112,
     "genres": ["Mystery", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Grace Kelly",
         "role": "Lisa Carol Fremont"
@@ -2635,7 +2635,7 @@
     "year": 1991,
     "runtime": 137,
     "genres": ["Action", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Linda Hamilton",
         "role": "Sarah Connor"
@@ -2703,7 +2703,7 @@
     "year": 1979,
     "runtime": 117,
     "genres": ["Sci-Fi", "Horror"],
-    "CAST": [
+    "cast": [
       {
         "name": "Sigourney Weaver",
         "role": "Ripley"
@@ -2745,7 +2745,7 @@
     "year": 1998,
     "runtime": 119,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Fairuza Balk",
         "role": "Stacey"
@@ -2815,7 +2815,7 @@
     "year": 1968,
     "runtime": 165,
     "genres": ["Western"],
-    "CAST": [
+    "cast": [
       {
         "name": "Henry Fonda",
         "role": "Frank"
@@ -2868,7 +2868,7 @@
     "year": 2014,
     "runtime": 106,
     "genres": ["Drama", "Music"],
-    "CAST": [
+    "cast": [
       {
         "name": "Paul Reiser",
         "role": "Jim Neimann"
@@ -2922,7 +2922,7 @@
     "year": 2006,
     "runtime": 151,
     "genres": ["Crime", "Drama", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Leonardo DiCaprio",
         "role": "Billy"
@@ -2991,7 +2991,7 @@
     "year": 1960,
     "runtime": 109,
     "genres": ["Horror", "Mystery", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Anthony Perkins",
         "role": "Norman Bates"
@@ -3052,7 +3052,7 @@
     "year": 2002,
     "runtime": 150,
     "genres": ["Biography", "Drama", "Music", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Adrien Brody",
         "role": "Wladyslaw Szpilman"
@@ -3105,7 +3105,7 @@
     "year": 1942,
     "runtime": 102,
     "genres": ["Drama", "Romance", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Ingrid Bergman",
         "role": "Ilsa Lund"
@@ -3170,7 +3170,7 @@
     "year": 2000,
     "runtime": 113,
     "genres": ["Mystery", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Joe Pantoliano",
         "role": "Teddy"
@@ -3222,7 +3222,7 @@
     "year": 1981,
     "runtime": 115,
     "genres": ["Action", "Adventure"],
-    "CAST": [
+    "cast": [
       {
         "name": "Harrison Ford",
         "role": "Indy"
@@ -3280,7 +3280,7 @@
     "year": 2011,
     "runtime": 112,
     "genres": ["Biography", "Comedy", "Drama"],
-    "CAST": [
+    "cast": [
       { "name": "Christian Ameri", "image": null, "role": "Albert" },
       {
         "name": "François Caron",
@@ -3344,7 +3344,7 @@
     "year": 1931,
     "runtime": 87,
     "genres": ["Comedy", "Drama", "Romance"],
-    "CAST": [
+    "cast": [
       {
         "name": "Charlie Chaplin",
         "role": "A Tramp n  n  n  (as Charlie Chaplin)"
@@ -3379,7 +3379,7 @@
     "year": 1940,
     "runtime": 125,
     "genres": ["Comedy", "Drama", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Charlie Chaplin",
         "role": "Hynkel - Dictator of Tomania /  n            A Jewish Barber"
@@ -3441,7 +3441,7 @@
     "year": 1988,
     "runtime": 155,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Antonella Attili",
         "role": "Maria Di Vita - Younger"
@@ -3496,7 +3496,7 @@
     "year": 2006,
     "runtime": 130,
     "genres": ["Drama", "Mystery", "Sci-Fi", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Christian Bale",
         "role": "Alfred Borden"
@@ -3556,7 +3556,7 @@
     "year": 1980,
     "runtime": 144,
     "genres": ["Drama", "Horror"],
-    "CAST": [
+    "cast": [
       {
         "name": "Jack Nicholson",
         "role": "Jack Torrance"
@@ -3613,7 +3613,7 @@
     "year": 2007,
     "runtime": 165,
     "genres": ["Drama", "Family"],
-    "CAST": [
+    "cast": [
       {
         "name": "Aamir Khan",
         "role": "Ram Shankar Nikumbh"
@@ -3662,7 +3662,7 @@
     "year": 2018,
     "runtime": 139,
     "genres": ["Crime", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Tabu",
         "role": "Simi"
@@ -3707,7 +3707,7 @@
     "year": 2016,
     "runtime": 161,
     "genres": ["Action", "Biography", "Drama", "Sport"],
-    "CAST": [
+    "cast": [
       {
         "name": "Aamir Khan",
         "role": "Mahavir Singh Phogat"
@@ -3759,7 +3759,7 @@
     "year": 2009,
     "runtime": 170,
     "genres": ["Comedy", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Kareena Kapoor Khan",
         "role": "Pia"
@@ -3815,7 +3815,7 @@
     "year": 1997,
     "runtime": 134,
     "genres": ["Animation", "Adventure", "Fantasy"],
-    "CAST": [
+    "cast": [
       {
         "name": "Gillian Anderson",
         "role": "Moro n  n  n  (voice)"
@@ -3886,7 +3886,7 @@
     "year": 2018,
     "runtime": 117,
     "genres": ["Animation", "Action", "Adventure", "Family", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Nicolas Cage",
         "role": "Spider-Man Noir n  n  n  (voice)"
@@ -3955,7 +3955,7 @@
     "year": 2016,
     "runtime": 106,
     "genres": ["Animation", "Drama", "Fantasy", "Romance"],
-    "CAST": [
+    "cast": [
       {
         "name": "Chafurin",
         "role": "Teshigawara's Father n  n  n  (voice)"
@@ -4024,7 +4024,7 @@
       "Music",
       "Mystery"
     ],
-    "CAST": [
+    "cast": [
       {
         "name": "Alfonso Aráu",
         "role": "Papá Julio n  n  n  (voice)"
@@ -4097,7 +4097,7 @@
     "year": 2008,
     "runtime": 98,
     "genres": ["Animation", "Adventure", "Family", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Sigourney Weaver",
         "role": "Ship's Computer n  n  n  (voice)"
@@ -4162,7 +4162,7 @@
     "year": 2019,
     "runtime": 181,
     "genres": ["Action", "Adventure", "Drama", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Don Cheadle",
         "role": "James Rhodes /  n            War Machine"
@@ -4231,7 +4231,7 @@
     "year": 2006,
     "runtime": 137,
     "genres": ["Drama", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Hans-Uwe Bauer",
         "role": "Paul Hauser"
@@ -4292,7 +4292,7 @@
     "year": 1995,
     "runtime": 178,
     "genres": ["Drama", "Biography", "History", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Sophie Marceau",
         "role": "Princess Isabelle"
@@ -4335,7 +4335,7 @@
     "year": 2012,
     "runtime": 164,
     "genres": ["Thriller", "Action"],
-    "CAST": [
+    "cast": [
       {
         "name": "Morgan Freeman",
         "role": "Fox"
@@ -4401,7 +4401,7 @@
     "year": 1957,
     "runtime": 88,
     "genres": ["War", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Kirk Douglas",
         "role": "Col. Dax"
@@ -4463,7 +4463,7 @@
     "year": 1981,
     "runtime": 149,
     "genres": ["Adventure", "Drama", "Thriller", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Jürgen Prochnow",
         "role": "Capt.-Lt. Henrich Lehmann-Willenbrock - Der Alte"
@@ -4527,7 +4527,7 @@
     "year": 1986,
     "runtime": 137,
     "genres": ["Action", "Adventure", "Sci-Fi", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Bill Paxton",
         "role": "Private Hudson"
@@ -4596,7 +4596,7 @@
     "year": 1984,
     "runtime": 229,
     "genres": ["Crime", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Robert De Niro",
         "role": "Noodles"
@@ -4656,7 +4656,7 @@
     "year": 2003,
     "runtime": 120,
     "genres": ["Action", "Drama", "Mystery", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Choi Min-sik",
         "role": "Dae-su Oh"
@@ -4715,7 +4715,7 @@
     "year": 1964,
     "runtime": 95,
     "genres": ["Comedy"],
-    "CAST": [
+    "cast": [
       {
         "name": "James Earl Jones",
         "role": "Lt. Lothar Zogg"
@@ -4772,7 +4772,7 @@
     "year": 1957,
     "runtime": 116,
     "genres": ["Drama", "Mystery", "Crime", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Marlene Dietrich",
         "role": "Christine"
@@ -4830,7 +4830,7 @@
     "year": 1950,
     "runtime": 110,
     "genres": ["Drama", "Film-Noir"],
-    "CAST": [
+    "cast": [
       {
         "name": "William Holden",
         "role": "Joe Gillis"
@@ -4896,7 +4896,7 @@
     "year": 1999,
     "runtime": 122,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Kevin Spacey",
         "role": "Lester Burnham"
@@ -4956,7 +4956,7 @@
     "year": 2012,
     "runtime": 165,
     "genres": ["Drama", "Western"],
-    "CAST": [
+    "cast": [
       {
         "name": "Leonardo DiCaprio",
         "role": "Calvin Candie"
@@ -5017,7 +5017,7 @@
     "year": 2000,
     "runtime": 102,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Jennifer Connelly",
         "role": "Marion Silver"
@@ -5075,7 +5075,7 @@
     "year": 2005,
     "runtime": 113,
     "genres": ["Drama", "Family"],
-    "CAST": [
+    "cast": [
       { "name": "Hümeyra", "image": null, "role": "Nuran" },
       {
         "name": "Fikret Kuşkan",
@@ -5126,7 +5126,7 @@
     "year": 1921,
     "runtime": 68,
     "genres": ["Comedy", "Drama", "Family"],
-    "CAST": [
+    "cast": [
       {
         "name": "Charlie Chaplin",
         "role": "A Tramp n  n  n  (as Charlie Chaplin)"
@@ -5145,7 +5145,7 @@
     "year": 1997,
     "runtime": 89,
     "genres": ["Drama", "Family", "Sport"],
-    "CAST": [
+    "cast": [
       { "name": "Masume Dair", "image": null, "role": "Roya's Mother" },
       {
         "name": "Amir Farrokh Hashemian",
@@ -5193,7 +5193,7 @@
     "year": 2011,
     "runtime": 123,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Leila Hatami",
         "role": "Simin"
@@ -5248,7 +5248,7 @@
     "year": 2010,
     "runtime": 131,
     "genres": ["Drama", "Mystery", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Lubna Azabal",
         "role": "Nawal Marwan"
@@ -5307,7 +5307,7 @@
     "year": 2010,
     "runtime": 103,
     "genres": ["Animation", "Adventure", "Comedy", "Family", "Fantasy"],
-    "CAST": [
+    "cast": [
       {
         "name": "Tom Hanks",
         "role": "Woody n  n  n  (voice)"
@@ -5374,7 +5374,7 @@
     "year": 1995,
     "runtime": 81,
     "genres": ["Animation", "Adventure", "Comedy", "Family", "Fantasy"],
-    "CAST": [
+    "cast": [
       {
         "name": "Tom Hanks",
         "role": "Woody n  n  n  (voice)"
@@ -5446,7 +5446,7 @@
     "year": 1962,
     "runtime": 216,
     "genres": ["Adventure", "Biography", "Drama", "History", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Alec Guinness",
         "role": "Prince Faisal"
@@ -5512,7 +5512,7 @@
     "year": 2019,
     "runtime": 119,
     "genres": ["Drama", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Colin Firth",
         "role": "General Erinmore"
@@ -5564,7 +5564,7 @@
     "year": 1941,
     "runtime": 119,
     "genres": ["Drama", "Mystery"],
-    "CAST": [
+    "cast": [
       {
         "name": "Joseph Cotten",
         "role": "Jedediah Leland /  n            Screening Room Reporter"
@@ -5628,7 +5628,7 @@
     "year": 2009,
     "runtime": 153,
     "genres": ["Adventure", "Drama", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Brad Pitt",
         "role": "Lt. Aldo Raine"
@@ -5697,7 +5697,7 @@
     "year": 1984,
     "runtime": 160,
     "genres": ["Biography", "Drama", "History", "Music"],
-    "CAST": [
+    "cast": [
       {
         "name": "Jeffrey Jones",
         "role": "Emperor Joseph II"
@@ -5767,7 +5767,7 @@
     "year": 1944,
     "runtime": 107,
     "genres": ["Drama", "Film-Noir", "Mystery", "Crime", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Edward G. Robinson",
         "role": "Barton Keyes"
@@ -5810,7 +5810,7 @@
     "year": 1950,
     "runtime": 138,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Bette Davis",
         "role": "Margo Channing"
@@ -5870,7 +5870,7 @@
     "year": 1950,
     "runtime": 88,
     "genres": ["Crime", "Drama", "Mystery"],
-    "CAST": [
+    "cast": [
       {
         "name": "Toshirō Mifune",
         "role": "Tajômaru"
@@ -5908,7 +5908,7 @@
     "year": 1948,
     "runtime": 89,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       { "name": "Elena Altieri", "image": null, "role": "The Charitable Lady" },
       { "name": "Vittorio Antonucci", "image": null, "role": "The Thief" },
       { "name": "Lianella Carell", "image": null, "role": "Maria" },
@@ -5932,7 +5932,7 @@
     "year": 1952,
     "runtime": 143,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Minoru Chiaki",
         "role": "Noguchi"
@@ -5995,7 +5995,7 @@
     "year": 1983,
     "runtime": 170,
     "genres": ["Crime", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Al Pacino",
         "role": "Tony Montana"
@@ -6058,7 +6058,7 @@
     "year": 1931,
     "runtime": 117,
     "genres": ["Crime", "Mystery", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Peter Lorre",
         "role": "Hans Beckert"
@@ -6107,7 +6107,7 @@
     "year": 1973,
     "runtime": 129,
     "genres": ["Comedy", "Crime", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Paul Newman",
         "role": "Henry Gondorff"
@@ -6166,7 +6166,7 @@
     "year": 2001,
     "runtime": 122,
     "genres": ["Comedy", "Romance"],
-    "CAST": [
+    "cast": [
       {
         "name": "Maurice Bénichou",
         "role": "Dominique Bretodeau"
@@ -6235,7 +6235,7 @@
     "year": 1959,
     "runtime": 136,
     "genres": ["Mystery", "Adventure", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Cary Grant",
         "role": "Roger Thornhill"
@@ -6298,7 +6298,7 @@
     "year": 1962,
     "runtime": 129,
     "genres": ["Crime", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Gregory Peck",
         "role": "Atticus Finch"
@@ -6365,7 +6365,7 @@
     "year": 1971,
     "runtime": 136,
     "genres": ["Crime", "Drama", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Malcolm McDowell",
         "role": "Alex"
@@ -6428,7 +6428,7 @@
     "year": 1997,
     "runtime": 138,
     "genres": ["Crime", "Drama", "Mystery", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Kim Basinger",
         "role": "Lynn Bracken"
@@ -6501,7 +6501,7 @@
     "year": 2004,
     "runtime": 108,
     "genres": ["Drama", "Romance", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Jim Carrey",
         "role": "Joel Barish"
@@ -6556,7 +6556,7 @@
     "year": 2012,
     "runtime": 115,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       { "name": "Anne Louise Hassing", "image": null, "role": "Agnes" },
       { "name": "Jytte Kvinesdal", "image": null, "role": "Inger" },
       {
@@ -6599,7 +6599,7 @@
     "year": 1961,
     "runtime": 110,
     "genres": ["Drama", "Thriller", "Action"],
-    "CAST": [
+    "cast": [
       {
         "name": "Toshirō Mifune",
         "role": "Sanjuro Kuwabatake /  n            The Samurai"
@@ -6665,7 +6665,7 @@
     "year": 1927,
     "runtime": 153,
     "genres": ["Drama", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       { "name": "Alfred Abel", "image": null, "role": "Joh Fredersen" },
       {
         "name": "Fritz Rasp",
@@ -6701,7 +6701,7 @@
     "year": 1960,
     "runtime": 125,
     "genres": ["Drama", "Romance", "Comedy"],
-    "CAST": [
+    "cast": [
       {
         "name": "Jack Lemmon",
         "role": "C.C. Baxter"
@@ -6760,7 +6760,7 @@
     "year": 1952,
     "runtime": 103,
     "genres": ["Comedy", "Musical", "Romance"],
-    "CAST": [
+    "cast": [
       {
         "name": "Gene Kelly",
         "role": "Don Lockwood"
@@ -6801,7 +6801,7 @@
     "year": 2000,
     "runtime": 104,
     "genres": ["Comedy", "Crime"],
-    "CAST": [
+    "cast": [
       {
         "name": "Brad Pitt",
         "role": "Mickey O'Neil"
@@ -6864,7 +6864,7 @@
     "year": 1958,
     "runtime": 128,
     "genres": ["Mystery", "Romance", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "James Stewart",
         "role": "John 'Scottie' Ferguson"
@@ -6909,7 +6909,7 @@
     "year": 1965,
     "runtime": 132,
     "genres": ["Western"],
-    "CAST": [
+    "cast": [
       {
         "name": "Clint Eastwood",
         "role": "Monco"
@@ -6984,7 +6984,7 @@
     "year": 1997,
     "runtime": 126,
     "genres": ["Drama", "Romance"],
-    "CAST": [
+    "cast": [
       {
         "name": "Ben Affleck",
         "role": "Chuckie"
@@ -7044,7 +7044,7 @@
     "year": 1992,
     "runtime": 99,
     "genres": ["Crime", "Drama", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Steve Buscemi",
         "role": "Mr. Pink"
@@ -7102,7 +7102,7 @@
     "year": 1983,
     "runtime": 131,
     "genres": ["Adventure", "Action", "Fantasy", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Alec Guinness",
         "role": "Ben 'Obi-Wan' Kenobi"
@@ -7168,7 +7168,7 @@
     "year": 1968,
     "runtime": 149,
     "genres": ["Adventure", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Keir Dullea",
         "role": "Dr. Dave Bowman"
@@ -7228,7 +7228,7 @@
     "year": 1987,
     "runtime": 116,
     "genres": ["Drama", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Adam Baldwin",
         "role": "Animal Mother"
@@ -7289,7 +7289,7 @@
     "year": 1976,
     "runtime": 114,
     "genres": ["Drama", "Crime"],
-    "CAST": [
+    "cast": [
       {
         "name": "Robert De Niro",
         "role": "Travis Bickle n  n  n  (as Robert DeNiro)"
@@ -7334,7 +7334,7 @@
     "year": 1989,
     "runtime": 127,
     "genres": ["Action", "Adventure"],
-    "CAST": [
+    "cast": [
       {
         "name": "Sean Connery",
         "role": "Professor Henry Jones"
@@ -7391,7 +7391,7 @@
     "year": 1925,
     "runtime": 95,
     "genres": ["Adventure", "Comedy", "Drama", "Family"],
-    "CAST": [
+    "cast": [
       {
         "name": "Charlie Chaplin",
         "role": "The Lone Prospector"
@@ -7412,7 +7412,7 @@
     "year": 2007,
     "runtime": null,
     "genres": ["Drama", "Family", "Sport"],
-    "CAST": [
+    "cast": [
       {
         "name": "Shah Rukh Khan",
         "role": "Kabir Khan"
@@ -7439,7 +7439,7 @@
     "year": 2017,
     "runtime": 167,
     "genres": ["Action", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Tanikella Bharani",
         "role": "Swami Ji"
@@ -7502,7 +7502,7 @@
     "year": 2013,
     "runtime": 146,
     "genres": ["Comedy", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Yogendra Tiku",
         "image": null,
@@ -7547,7 +7547,7 @@
     "year": 1988,
     "runtime": 86,
     "genres": ["Animation", "Family", "Fantasy"],
-    "CAST": [
+    "cast": [
       {
         "name": "Toshiyuki Amagasa",
         "image": null,
@@ -7626,7 +7626,7 @@
     "year": 2006,
     "runtime": 118,
     "genres": ["Drama", "Fantasy", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Álex Angulo",
         "role": "Doctor Ferreiro"
@@ -7684,7 +7684,7 @@
     "year": 2009,
     "runtime": 129,
     "genres": ["Drama", "Mystery", "Romance", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Mario Alarcón",
         "role": "Juez Fortuna Lacalle"
@@ -7732,7 +7732,7 @@
     "year": 2004,
     "runtime": 119,
     "genres": ["Animation", "Adventure", "Family", "Fantasy"],
-    "CAST": [
+    "cast": [
       {
         "name": "Lauren Bacall",
         "role": "Witch of the Waste n  n  n  (voice)"
@@ -7803,7 +7803,7 @@
     "year": 2013,
     "runtime": 186,
     "genres": ["Biography", "Drama", "Sport"],
-    "CAST": [
+    "cast": [
       {
         "name": "Divya Dutta",
         "role": "Isri Kaur /  n            Milkha Singh's elder sister"
@@ -7862,7 +7862,7 @@
     "year": 2000,
     "runtime": 156,
     "genres": ["Action", "Comedy", "Crime", "Romance"],
-    "CAST": [
+    "cast": [
       {
         "name": "Gulshan Grover",
         "role": "Kabira"
@@ -7925,7 +7925,7 @@
     "year": 2012,
     "runtime": 321,
     "genres": ["Action", "Comedy", "Crime", "Drama", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Manoj Bajpayee",
         "role": "Sardar Khan n  n  n  (as Manoj Bajpai)"
@@ -7980,7 +7980,7 @@
     "year": 2006,
     "runtime": 167,
     "genres": ["Comedy", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Sharman Joshi",
         "role": "Sukhi /  n            Rajguru"
@@ -8040,7 +8040,7 @@
     "year": 2004,
     "runtime": 195,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Shah Rukh Khan",
         "role": "Mohan Bhargava"
@@ -8092,7 +8092,7 @@
     "year": 2015,
     "runtime": 163,
     "genres": ["Crime", "Drama", "Mystery", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Tabu",
         "role": "I.G. Meera Deshmukh"
@@ -8148,7 +8148,7 @@
     "year": 2019,
     "runtime": 96,
     "genres": ["Animation", "Adventure", "Comedy", "Family"],
-    "CAST": [
+    "cast": [
       {
         "name": "Joan Cusack",
         "role": "Mrs. Krum n  n  n  (voice)"
@@ -8232,7 +8232,7 @@
       "Family",
       "Fantasy"
     ],
-    "CAST": [
+    "cast": [
       {
         "name": "Diane Lane",
         "role": "Mom n  n  n  (voice)"
@@ -8303,7 +8303,7 @@
     "year": 2009,
     "runtime": 96,
     "genres": ["Animation", "Adventure", "Comedy", "Family"],
-    "CAST": [
+    "cast": [
       {
         "name": "Ed Asner",
         "role": "Carl Fredricksen n  n  n  (voice) (as Ed Asner)"
@@ -8378,7 +8378,7 @@
     "year": 2010,
     "runtime": 109,
     "genres": ["Documentary", "Crime"],
-    "CAST": [
+    "cast": [
       {
         "name": "Matt Damon",
         "role": "Himself - Narrator n  n  n  (voice)"
@@ -8460,7 +8460,7 @@
     "year": 2012,
     "runtime": 86,
     "genres": ["Documentary", "Biography", "Music"],
-    "CAST": [
+    "cast": [
       {
         "name": "Clarence Avant",
         "role": "Himself - Former Chairman of Motown Records"
@@ -8533,7 +8533,7 @@
     "year": 1954,
     "runtime": 108,
     "genres": ["Crime", "Drama", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Marlon Brando",
         "role": "Terry Malloy"
@@ -8585,7 +8585,7 @@
     "year": 1948,
     "runtime": 126,
     "genres": ["Adventure", "Drama", "Western"],
-    "CAST": [
+    "cast": [
       {
         "name": "Humphrey Bogart",
         "role": "Fred C. Dobbs"
@@ -8631,7 +8631,7 @@
     "year": 2004,
     "runtime": 156,
     "genres": ["Biography", "Drama", "History", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Bruno Ganz",
         "role": "Adolf Hitler"
@@ -8697,7 +8697,7 @@
     "year": 2018,
     "runtime": 130,
     "genres": ["Biography", "Comedy", "Drama", "Music"],
-    "CAST": [
+    "cast": [
       {
         "name": "Viggo Mortensen",
         "role": "Tony Lip"
@@ -8752,7 +8752,7 @@
     "year": 2005,
     "runtime": 140,
     "genres": ["Action", "Adventure"],
-    "CAST": [
+    "cast": [
       {
         "name": "Morgan Freeman",
         "role": "Lucius Fox"
@@ -8818,7 +8818,7 @@
     "year": 1939,
     "runtime": 238,
     "genres": ["Drama", "History", "Romance", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Vivien Leigh",
         "role": "Scarlett - Their Daughter"
@@ -8884,7 +8884,7 @@
     "year": 1980,
     "runtime": 129,
     "genres": ["Drama", "Sport", "Biography"],
-    "CAST": [
+    "cast": [
       {
         "name": "Robert De Niro",
         "role": "Jake La Motta"
@@ -8939,7 +8939,7 @@
     "year": 1988,
     "runtime": 132,
     "genres": ["Action", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Bruce Willis",
         "role": "John McClane"
@@ -9003,7 +9003,7 @@
     "year": 1974,
     "runtime": 130,
     "genres": ["Mystery", "Thriller", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Jack Nicholson",
         "role": "J.J. Gittes"
@@ -9071,7 +9071,7 @@
     "year": 1959,
     "runtime": 121,
     "genres": ["Comedy", "Music", "Romance"],
-    "CAST": [
+    "cast": [
       {
         "name": "Marilyn Monroe",
         "role": "Sugar Kane Kowalczyk"
@@ -9125,7 +9125,7 @@
     "year": 1949,
     "runtime": 104,
     "genres": ["Film-Noir", "Mystery", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Orson Welles",
         "role": "Harry Lime"
@@ -9170,7 +9170,7 @@
     "year": 1975,
     "runtime": 91,
     "genres": ["Adventure", "Comedy", "Fantasy"],
-    "CAST": [
+    "cast": [
       {
         "name": "John Cleese",
         "role": "Second Swallow-Savvy Guard /  n            The Black Knight /  n            Peasant 3 /  n            Sir Launcelot the Brave /  n            Taunting French Guard /  n            Tim the Enchanter"
@@ -9199,7 +9199,7 @@
     "year": 2017,
     "runtime": 115,
     "genres": ["Drama", "Crime"],
-    "CAST": [
+    "cast": [
       {
         "name": "Woody Harrelson",
         "role": "Willoughby"
@@ -9253,7 +9253,7 @@
     "year": 1957,
     "runtime": 91,
     "genres": ["Drama", "Romance"],
-    "CAST": [
+    "cast": [
       {
         "name": "Bibi Andersson",
         "role": "Sara"
@@ -9311,7 +9311,7 @@
     "year": 2013,
     "runtime": 180,
     "genres": ["Biography", "Crime", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Leonardo DiCaprio",
         "role": "Jordan Belfort"
@@ -9380,7 +9380,7 @@
     "year": 1995,
     "runtime": 170,
     "genres": ["Crime", "Drama", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Robert De Niro",
         "role": "Neil McCauley"
@@ -9449,7 +9449,7 @@
     "year": 1985,
     "runtime": 162,
     "genres": ["Action", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Hisashi Igawa",
         "role": "Shuri Kurogane"
@@ -9508,7 +9508,7 @@
     "year": 1992,
     "runtime": 130,
     "genres": ["Drama", "Western"],
-    "CAST": [
+    "cast": [
       {
         "name": "Clint Eastwood",
         "role": "Bill Munny"
@@ -9566,7 +9566,7 @@
     "year": 2011,
     "runtime": 140,
     "genres": ["Drama", "Sport"],
-    "CAST": [
+    "cast": [
       {
         "name": "Nick Nolte",
         "role": "Paddy Conlon"
@@ -9623,7 +9623,7 @@
     "year": 2005,
     "runtime": 132,
     "genres": ["Action", "Drama", "Sci-Fi", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Natalie Portman",
         "role": "Evey"
@@ -9684,7 +9684,7 @@
     "year": 1957,
     "runtime": 161,
     "genres": ["Adventure", "Drama", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Alec Guinness",
         "role": "Colonel Nicholson"
@@ -9739,7 +9739,7 @@
     "year": 1998,
     "runtime": 107,
     "genres": ["Comedy", "Crime"],
-    "CAST": [
+    "cast": [
       {
         "name": "Jason Flemyng",
         "role": "Tom"
@@ -9794,7 +9794,7 @@
     "year": 1995,
     "runtime": 178,
     "genres": ["Crime", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Robert De Niro",
         "role": "Sam 'Ace' Rothstein"
@@ -9854,7 +9854,7 @@
     "year": 1926,
     "runtime": 67,
     "genres": ["Adventure", "Comedy", "Action", "Drama", "War", "Western"],
-    "CAST": [
+    "cast": [
       {
         "name": "Buster Keaton",
         "role": "Johnnie Gray"
@@ -9890,7 +9890,7 @@
     "year": 2015,
     "runtime": 118,
     "genres": ["Drama", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Joan Allen",
         "role": "Nancy"
@@ -9948,7 +9948,7 @@
     "year": 1961,
     "runtime": 186,
     "genres": ["Drama", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Marlene Dietrich",
         "role": "Mrs. Bertholt"
@@ -10015,7 +10015,7 @@
     "year": 1939,
     "runtime": 129,
     "genres": ["Comedy", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "James Stewart",
         "role": "Jefferson Smith"
@@ -10078,7 +10078,7 @@
     "year": 2007,
     "runtime": 158,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Daniel Day-Lewis",
         "role": "Daniel Plainview"
@@ -10126,7 +10126,7 @@
     "year": 1957,
     "runtime": 96,
     "genres": ["Fantasy", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Bibi Andersson",
         "role": "Mia /  n            Mary - Jof's wife"
@@ -10190,7 +10190,7 @@
     "year": 1954,
     "runtime": 105,
     "genres": ["Thriller", "Crime"],
-    "CAST": [
+    "cast": [
       {
         "name": "Grace Kelly",
         "role": "Margot Wendice"
@@ -10233,7 +10233,7 @@
     "year": 1963,
     "runtime": 172,
     "genres": ["Adventure", "Drama", "History", "Thriller", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Richard Attenborough",
         "role": "Bartlett 'Big X'"
@@ -10290,7 +10290,7 @@
     "year": 1996,
     "runtime": 93,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Ewan McGregor",
         "role": "Renton"
@@ -10350,7 +10350,7 @@
     "year": 2001,
     "runtime": 135,
     "genres": ["Biography", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Jennifer Connelly",
         "role": "Alicia Nash"
@@ -10411,7 +10411,7 @@
     "year": 2002,
     "runtime": 141,
     "genres": ["Biography", "Crime", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Leonardo DiCaprio",
         "role": "Frank Abagnale Jr."
@@ -10477,7 +10477,7 @@
     "year": 2010,
     "runtime": 98,
     "genres": ["Animation", "Action", "Adventure", "Family", "Fantasy"],
-    "CAST": [
+    "cast": [
       {
         "name": "Jay Baruchel",
         "role": "Hiccup n  n  n  (voice)"
@@ -10538,7 +10538,7 @@
     "year": 1982,
     "runtime": 117,
     "genres": ["Action", "Sci-Fi", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Harrison Ford",
         "role": "Rick Deckard"
@@ -10604,7 +10604,7 @@
     "year": 1998,
     "runtime": 169,
     "genres": ["Drama", "Music", "Romance"],
-    "CAST": [
+    "cast": [
       {
         "name": "Tim Roth",
         "role": "Novecento"
@@ -10660,7 +10660,7 @@
     "year": 1988,
     "runtime": 124,
     "genres": ["Animation", "Action", "Drama", "Sci-Fi", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Yōsuke Akimoto",
         "role": "Harukiya Bartender n  n  n  (voice)"
@@ -10734,7 +10734,7 @@
     "year": 1960,
     "runtime": 174,
     "genres": ["Comedy", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Marcello Mastroianni",
         "role": "Marcello Rubini"
@@ -10785,7 +10785,7 @@
     "year": 1955,
     "runtime": 117,
     "genres": ["Crime", "Drama", "Horror", "Mystery", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Jean Brochard",
         "image": null,
@@ -10853,7 +10853,7 @@
     "year": 1999,
     "runtime": 107,
     "genres": ["Drama", "Mystery", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Bruce Willis",
         "role": "Malcolm Crowe"
@@ -10913,7 +10913,7 @@
     "year": 2016,
     "runtime": 106,
     "genres": ["Crime", "Mystery", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "José Coronado",
         "role": "Tomás Garrido n  n  n  (as José Coronado)"
@@ -10969,7 +10969,7 @@
     "year": 1994,
     "runtime": 102,
     "genres": ["Comedy", "Crime", "Drama", "Mystery", "Romance"],
-    "CAST": [
+    "cast": [
       { "name": "Valerie Chow", "image": null, "role": "Air Hostess" },
       {
         "name": "Jinquan Chen",
@@ -11008,7 +11008,7 @@
     "year": 2000,
     "runtime": 98,
     "genres": ["Drama", "Romance"],
-    "CAST": [
+    "cast": [
       {
         "name": "Maggie Cheung",
         "role": "Su Li-zhen - Mrs. Chan"
@@ -11061,7 +11061,7 @@
     "year": 1995,
     "runtime": 98,
     "genres": ["Crime", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Vincent Cassel",
         "role": "Vinz"
@@ -11094,7 +11094,7 @@
     "year": 1967,
     "runtime": 127,
     "genres": ["Crime", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Paul Newman",
         "role": "Luke"
@@ -11154,7 +11154,7 @@
     "year": 1984,
     "runtime": 145,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Nastassja Kinski",
         "role": "Jane Henderson"
@@ -11202,7 +11202,7 @@
     "year": 2014,
     "runtime": 99,
     "genres": ["Adventure", "Comedy", "Crime", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Ralph Fiennes",
         "role": "M. Gustave"
@@ -11271,7 +11271,7 @@
     "year": 1995,
     "runtime": 101,
     "genres": ["Drama", "Romance"],
-    "CAST": [
+    "cast": [
       {
         "name": "Ethan Hawke",
         "role": "Jesse"
@@ -11304,7 +11304,7 @@
     "year": 2013,
     "runtime": 83,
     "genres": ["Documentary", "News"],
-    "CAST": [
+    "cast": [
       {
         "name": "James Earl Jones",
         "role": "Himself n  n  n  (archive footage)"
@@ -11379,7 +11379,7 @@
     "year": 1940,
     "runtime": 130,
     "genres": ["Drama", "Mystery", "Romance", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Joan Fontaine",
         "role": "Mrs. de Winter"
@@ -11445,7 +11445,7 @@
     "year": 2007,
     "runtime": 148,
     "genres": ["Adventure", "Biography", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "William Hurt",
         "role": "Walt McCandless"
@@ -11504,7 +11504,7 @@
     "year": 1994,
     "runtime": 99,
     "genres": ["Drama", "Mystery", "Romance"],
-    "CAST": [
+    "cast": [
       {
         "name": "Irène Jacob",
         "role": "Valentine"
@@ -11571,7 +11571,7 @@
     "year": 1934,
     "runtime": 105,
     "genres": ["Romance", "Comedy"],
-    "CAST": [
+    "cast": [
       {
         "name": "Clark Gable",
         "role": "Peter"
@@ -11616,7 +11616,7 @@
     "year": 2013,
     "runtime": 134,
     "genres": ["Biography", "Drama", "History"],
-    "CAST": [
+    "cast": [
       {
         "name": "Bryan Batt",
         "role": "Judge Turner"
@@ -11670,7 +11670,7 @@
     "year": 2007,
     "runtime": 122,
     "genres": ["Crime", "Drama", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Tommy Lee Jones",
         "role": "Ed Tom Bell"
@@ -11724,7 +11724,7 @@
     "year": 2013,
     "runtime": 153,
     "genres": ["Crime", "Drama", "Mystery", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Maria Bello",
         "role": "Grace Dover"
@@ -11790,7 +11790,7 @@
     "year": 1941,
     "runtime": 100,
     "genres": ["Mystery", "Film-Noir"],
-    "CAST": [
+    "cast": [
       {
         "name": "Humphrey Bogart",
         "role": "Samuel Spade"
@@ -11851,7 +11851,7 @@
     "year": 2019,
     "runtime": 152,
     "genres": ["Action", "Biography", "Drama", "Sport"],
-    "CAST": [
+    "cast": [
       {
         "name": "Christian Bale",
         "role": "Ken Miles"
@@ -11905,7 +11905,7 @@
     "year": 1954,
     "runtime": 108,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Anthony Quinn",
         "role": "Zampanò"
@@ -11932,7 +11932,7 @@
     "year": 2010,
     "runtime": 138,
     "genres": ["Mystery", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Leonardo DiCaprio",
         "role": "Teddy Daniels"
@@ -11998,7 +11998,7 @@
     "year": 2014,
     "runtime": 149,
     "genres": ["Drama", "Mystery", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Ben Affleck",
         "role": "Nick Dunne"
@@ -12067,7 +12067,7 @@
     "year": 2015,
     "runtime": 129,
     "genres": ["Crime", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Michael Keaton",
         "role": "Walter 'Robby' Robinson"
@@ -12130,7 +12130,7 @@
     "year": 1980,
     "runtime": 124,
     "genres": ["Biography", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "John Gielgud",
         "role": "Carr Gomm"
@@ -12190,7 +12190,7 @@
     "year": 1959,
     "runtime": 212,
     "genres": ["Adventure", "Drama", "History"],
-    "CAST": [
+    "cast": [
       {
         "name": "Charlton Heston",
         "role": "Judah Ben-Hur"
@@ -12248,7 +12248,7 @@
     "year": 1982,
     "runtime": 188,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Kristina Adolphson",
         "image": null,
@@ -12328,7 +12328,7 @@
     "year": 2016,
     "runtime": 145,
     "genres": ["Drama", "Romance", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Moon So-ri",
         "role": "Aunt of Lady Hideko"
@@ -12383,7 +12383,7 @@
     "year": 1966,
     "runtime": 85,
     "genres": ["Thriller", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Bibi Andersson",
         "role": "Alma"
@@ -12408,7 +12408,7 @@
     "year": 1993,
     "runtime": 127,
     "genres": ["Adventure", "Sci-Fi", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Jeff Goldblum",
         "role": "Malcolm"
@@ -12473,7 +12473,7 @@
     "year": 2014,
     "runtime": 121,
     "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Glenn Close",
         "role": "Nova Prime"
@@ -12542,7 +12542,7 @@
     "year": 1969,
     "runtime": 110,
     "genres": ["Crime", "Biography", "Drama", "Western"],
-    "CAST": [
+    "cast": [
       {
         "name": "Paul Newman",
         "role": "Robert LeRoy Parker aka Butch Cassidy"
@@ -12602,7 +12602,7 @@
     "year": 1953,
     "runtime": 118,
     "genres": ["Comedy", "Romance"],
-    "CAST": [
+    "cast": [
       {
         "name": "Audrey Hepburn",
         "role": "Princess Ann"
@@ -12642,7 +12642,7 @@
     "year": 1930,
     "runtime": 145,
     "genres": ["Drama", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Lew Ayres",
         "role": "Paul n  n  n  (as Lewis Ayres)"
@@ -12705,7 +12705,7 @@
     "year": 1976,
     "runtime": 120,
     "genres": ["Drama", "Sport"],
-    "CAST": [
+    "cast": [
       {
         "name": "Sylvester Stallone",
         "role": "Rocky"
@@ -12756,7 +12756,7 @@
     "year": 1976,
     "runtime": 121,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "William Holden",
         "role": "Max Schumacher"
@@ -12801,7 +12801,7 @@
     "year": 1959,
     "runtime": 99,
     "genres": ["Drama", "Crime"],
-    "CAST": [
+    "cast": [
       {
         "name": "Bernard Abbou",
         "image": null,
@@ -12873,7 +12873,7 @@
     "year": 2004,
     "runtime": 121,
     "genres": ["Biography", "Drama", "History", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Don Cheadle",
         "role": "Paul Rusesabagina"
@@ -12919,7 +12919,7 @@
     "year": 2011,
     "runtime": 146,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Sissy Spacek",
         "role": "Missus Walters"
@@ -12982,7 +12982,7 @@
     "year": 2000,
     "runtime": 154,
     "genres": ["Drama", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Adriana Barraza",
         "role": "Mama Octavio (Octavio's Mother)"
@@ -13035,7 +13035,7 @@
     "year": 1989,
     "runtime": 128,
     "genres": ["Comedy", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Ethan Hawke",
         "role": "Todd Anderson"
@@ -13083,7 +13083,7 @@
     "year": 1962,
     "runtime": 123,
     "genres": ["Drama", "Western"],
-    "CAST": [
+    "cast": [
       {
         "name": "James Stewart",
         "role": "Ransom Stoddard"
@@ -13152,7 +13152,7 @@
     "year": 1993,
     "runtime": 133,
     "genres": ["Biography", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Daniel Day-Lewis",
         "role": "Gerry Conlon"
@@ -13192,7 +13192,7 @@
     "year": 1946,
     "runtime": 170,
     "genres": ["Drama", "Romance", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Dana Andrews",
         "role": "Fred Derry"
@@ -13261,7 +13261,7 @@
     "year": 2008,
     "runtime": 116,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Clint Eastwood",
         "role": "Walt Kowalski"
@@ -13307,7 +13307,7 @@
     "year": 2017,
     "runtime": 137,
     "genres": ["Action", "Drama", "Sci-Fi", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Richard E. Grant",
         "role": "Dr. Rice"
@@ -13367,7 +13367,7 @@
     "year": 1996,
     "runtime": 98,
     "genres": ["Crime", "Drama", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Steve Buscemi",
         "role": "Carl Showalter"
@@ -13424,7 +13424,7 @@
     "year": 2003,
     "runtime": 131,
     "genres": ["Action", "Crime", "Drama", "Mystery", "Thriller"],
-    "CAST": [
+    "cast": [
       { "name": "Mi-seon Jeon", "image": null, "role": "Kwok Seol-yung" },
       {
         "name": "Song Kang-ho",
@@ -13479,7 +13479,7 @@
     "year": 2016,
     "runtime": 139,
     "genres": ["Biography", "Drama", "History", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Tyler Coppin",
         "role": "Lynchburg Doctor"
@@ -13531,7 +13531,7 @@
     "year": 1979,
     "runtime": 94,
     "genres": ["Comedy"],
-    "CAST": [
+    "cast": [
       {
         "name": "John Cleese",
         "role": "Wise Man #1 /  n            Reg /  n            Jewish Official /  n            First Centurion /  n            Deadly Dirk /  n            Arthur"
@@ -13552,7 +13552,7 @@
     "year": 1986,
     "runtime": 89,
     "genres": ["Adventure", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "River Phoenix",
         "role": "Chris Chambers"
@@ -13615,7 +13615,7 @@
     "year": 2011,
     "runtime": 130,
     "genres": ["Adventure", "Drama", "Fantasy", "Mystery"],
-    "CAST": [
+    "cast": [
       {
         "name": "Ralph Fiennes",
         "role": "Lord Voldemort"
@@ -13679,7 +13679,7 @@
     "year": 1975,
     "runtime": 185,
     "genres": ["Adventure", "Drama", "History", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Steven Berkoff",
         "role": "Lord Ludd"
@@ -13743,7 +13743,7 @@
     "year": 1982,
     "runtime": 109,
     "genres": ["Horror", "Mystery", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Kurt Russell",
         "role": "MacReady"
@@ -13808,7 +13808,7 @@
     "year": 2004,
     "runtime": 132,
     "genres": ["Drama", "Sport"],
-    "CAST": [
+    "cast": [
       {
         "name": "Clint Eastwood",
         "role": "Frankie Dunn"
@@ -13880,7 +13880,7 @@
     "year": 1998,
     "runtime": 117,
     "genres": ["Comedy", "Crime"],
-    "CAST": [
+    "cast": [
       {
         "name": "Steve Buscemi",
         "role": "Theodore Donald 'Donny' Kerabatsos"
@@ -13943,7 +13943,7 @@
     "year": 1982,
     "runtime": 191,
     "genres": ["Biography", "Drama", "History"],
-    "CAST": [
+    "cast": [
       {
         "name": "John Gielgud",
         "role": "Lord Irwin"
@@ -14010,7 +14010,7 @@
     "year": 1940,
     "runtime": 129,
     "genres": ["Drama", "History"],
-    "CAST": [
+    "cast": [
       {
         "name": "Henry Fonda",
         "role": "Tom Joad"
@@ -14073,7 +14073,7 @@
     "year": 1963,
     "runtime": 138,
     "genres": ["Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Marcello Mastroianni",
         "role": "Guido Anselmi"
@@ -14146,7 +14146,7 @@
     "year": 1986,
     "runtime": 120,
     "genres": ["War", "Drama"],
-    "CAST": [
+    "cast": [
       {
         "name": "Johnny Depp",
         "role": "Lerner"
@@ -14206,7 +14206,7 @@
     "year": 1978,
     "runtime": 183,
     "genres": ["Drama", "War"],
-    "CAST": [
+    "cast": [
       {
         "name": "Robert De Niro",
         "role": "Michael"
@@ -14260,7 +14260,7 @@
     "year": 1972,
     "runtime": 167,
     "genres": ["Drama", "Mystery", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Yulian Semyonov",
         "image": null,
@@ -14336,7 +14336,7 @@
     "year": 1979,
     "runtime": 162,
     "genres": ["Drama", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Natalya Abramova",
         "image": null,
@@ -14374,7 +14374,7 @@
     "year": 2015,
     "runtime": 120,
     "genres": ["Action", "Adventure", "Sci-Fi", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Charlize Theron",
         "role": "Imperator Furiosa"
@@ -14432,7 +14432,7 @@
     "year": 1998,
     "runtime": 103,
     "genres": ["Comedy", "Drama", "Sci-Fi"],
-    "CAST": [
+    "cast": [
       {
         "name": "Jim Carrey",
         "role": "Truman Burbank"
@@ -14486,7 +14486,7 @@
     "year": 2003,
     "runtime": 111,
     "genres": ["Action", "Crime", "Thriller"],
-    "CAST": [
+    "cast": [
       {
         "name": "Uma Thurman",
         "role": "The Bride"
@@ -14556,7 +14556,7 @@
     "year": 2012,
     "runtime": 143,
     "genres": ["Adventure", "Sci-Fi", "Action"],
-    "CAST": [
+    "cast": [
       {
         "name": "Samuel L. Jackson",
         "role": "Nick Fury"
