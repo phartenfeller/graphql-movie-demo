@@ -20,7 +20,7 @@ const typeDefs = gql`
 const resolvers = {
   Query: {
     hello: () => 'Hello World!',
-    allMovies: allMoviesResolver
+    allMovies: () => allMoviesResolver()
   }
 };
 
